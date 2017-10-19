@@ -84,7 +84,9 @@ body {
     letter-spacing: 1px;
     color: white;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+	display: flex;
+    justify-content: center;	}
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #fed136; }
 
